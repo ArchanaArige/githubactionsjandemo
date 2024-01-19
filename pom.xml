@@ -19,8 +19,8 @@
 		<maven.compiler.target>1.7</maven.compiler.target>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sonar.projectKey>NidaAP_githubactionsjandemo</sonar.projectKey>
-		<sonar.organization>nidaap</sonar.organization>
+		<sonar.projectKey>ArchanaArige_githubactionsjandemo</sonar.projectKey>
+		<sonar.organization>archanaarige</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 	</properties>
@@ -124,7 +124,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub NidaAP Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/nidaap/githubactionsjandemo</url>
+			<url>https://maven.pkg.github.com/archanaarige/githubactionsjandemo</url>
 		</repository>
 	</distributionManagement>
 </project>
